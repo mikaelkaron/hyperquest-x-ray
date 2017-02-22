@@ -1,0 +1,30 @@
+{
+  "name": "hyperquest-x-ray",
+  "version": "0.0.1",
+  "description": "Simple hyperquest driver for x-ray",
+  "repository": {
+    "type": "git",
+    "url": "githttps://github.com/mikaelkaron/hyperquest-x-ray.git"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "keywords": [
+    "x-ray",
+    "driver",
+    "hyperquest"
+  ],
+  "bugs": {
+    "url": "https://github.com/mikaelkaron/hyperquest-x-ray/issues"
+  },
+  "homepage": "https://github.com/mikaelkaron/hyperquest-x-ray#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquest": "^2.1.2"
+  }
+}
